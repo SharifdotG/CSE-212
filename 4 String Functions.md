@@ -1,4 +1,4 @@
-## **CSE 212 - Database Systems Lab Notes #4**
+# **CSE 212 - Database Systems Lab Notes #4**
 
 ## **String Functions**
 
